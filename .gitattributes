@@ -3,3 +3,6 @@
 
 *.min.js linguist-detectable=true
 *.min.js linguist-language=JavaScript
+
+*.easing.min.js linguist-detectable=true
+*.easing.min.js linguist-language=JavaScript
